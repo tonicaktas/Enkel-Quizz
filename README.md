@@ -11,4 +11,4 @@ Väldigt simpel javascript quiz
 
 ## Syfte 
 
-Visar hur man hämtar värdet från formulären och hur man loopar igenom alla värde som man hämtar från frmulären
+Visar hur man hämtar värdet från formulären och hur man loopar igenom alla värde som man hämtar från formulären
